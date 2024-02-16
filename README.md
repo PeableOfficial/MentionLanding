@@ -10,7 +10,7 @@ Mention by Peable. This is the landing page for Mention, a Social Network by Pea
 
 <hr>
 
-![Mention Mockup](/public/mention.png)
+![Mention Mockup](/public/mention-hero-banner.png)
 
 ## Key Features:
 
@@ -42,7 +42,7 @@ NutriTrack scores 100/100 in the Lighthouse performance audit.
 
 ## Demo
 
-Check out the [Demo](https://mention.chrstnl.com/), hosted on Vercel.
+Check out the [Demo](https://mention.earth/), hosted on Vercel.
 
 ## Commands
 

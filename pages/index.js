@@ -48,8 +48,8 @@ export default function Home() {
                                     A global platform that connects you to the
                                     pulse of the world. Discover, share, and
                                     communicate in real-time with millions
-                                    around the globe. Here's a glimpse into the
-                                    powerful features that make Mention an
+                                    around the globe. Here&apos;s a glimpse into
+                                    the powerful features that make Mention an
                                     essential part of your digital life:
                                 </p>
                             </Content>

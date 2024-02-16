@@ -38,6 +38,7 @@ export const HomeBanner = () => {
                             <Button
                                 href="https://mention.earth/auth/signin"
                                 target="_blank"
+                                rel="noreferrer"
                             >
                                 Sign In
                             </Button>
@@ -45,6 +46,7 @@ export const HomeBanner = () => {
                                 role="button"
                                 href="https://mention.earth/auth/signup"
                                 target="_blank"
+                                rel="noreferrer"
                                 className="btn btn--secondary"
                             >
                                 Join now!
