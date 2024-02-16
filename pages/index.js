@@ -56,7 +56,7 @@ export default function Home() {
                             <ContentImage />
                         </SectionContainer>
                     </MotionBTTContainer>
-                    {/* Card Container Tabs */}
+                    {/* Card Container Tabs
                     <MotionBTTContainer
                         transition={{ delay: 0.2, duration: 0.5 }}
                     >
@@ -127,7 +127,8 @@ export default function Home() {
                             </CardGroup>
                         </SectionContainer>
                     </MotionBTTContainer>
-                    {/* Testimonials */}
+                     */}
+                    {/* Testimonials
                     <MotionBTTContainer
                         transition={{ delay: 0.2, duration: 0.5 }}
                     >
@@ -145,7 +146,7 @@ export default function Home() {
                             </PageTitle>
                             <Columns />
                         </SectionContainer>
-                    </MotionBTTContainer>
+                    </MotionBTTContainer> */}
                     {/* Accordions */}
                     <MotionBTTContainer
                         transition={{ delay: 0.2, duration: 0.5 }}
